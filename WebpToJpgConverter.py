@@ -21,7 +21,7 @@ if not os.path.exists(targetDirectory):
 if os.path.exists(sourceDirectory) and os.path.exists(sourceDirectory):
     convertFiles()
 
-# UI VERSION
+# GUI VERSION
 # import PIL.Image
 # from tkinter import *
 # import os
